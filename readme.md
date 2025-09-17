@@ -57,12 +57,15 @@
   </a>
 </div>
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/aufaa03/aufaa03/output/snake.svg" alt="Snake animation" />
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aufaa03/aufaa03/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aufaa03/aufaa03/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aufa03/aufa03/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aufaa03/aufaa03/output/pacman-contribution-graph.svg">
 </picture>
 
 
