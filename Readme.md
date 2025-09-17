@@ -14,6 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aufaa03&theme=hilo&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
 </div>
 
+#### 💻Skilss:
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHJ5Y205NWd1N3E5d2w4bTEyMTg4dWJpdm90bDFjMXQ1Z2Q2andoYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4QxQgWZHbeYwM/giphy.gif"  />
 
@@ -45,6 +46,8 @@
 
 ###
 
+#### 📲Connect With me:
+
 <div align="left">
   <a href="https://instagram.com/aufaa_fafa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -58,6 +61,8 @@
 </div>
 
 ###
+
+#### 🎮Lets Play a Game With Me:
 
 <br clear="both">
 
