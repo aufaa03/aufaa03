@@ -10,7 +10,7 @@
 
 #### 🔥My Github Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aufaa03&theme=hilo&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aufa03&theme=hilo&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aufaa03&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
 </div>
 
